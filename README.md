@@ -64,6 +64,11 @@ medida constante. A origem ou o ponto zero dessa escala de medida é arbitrário
   Um exemplo clássico de escala intervalar é a temperatura medida em graus Celsius (ºC) ou Fahrenheit (ºF). A escolha do zero é arbitrária e diferenças de temperaturas iguais são determinadas por meio da identificação de volumes iguais de expansão no líquido usado no termômetro. Dessa forma, a escala intervalar permite inferir diferenças entre unidades a serem medidas, porém, não se pode afirmar que um valor em um intervalo específico da escala seja múltiplo de outro. Por exemplo, suponha dois objetos medidos a uma temperatura de 15ºC e 30ºC, respectivamente. A mensuração da temperatura permite determinar o quanto um objeto é mais quente que o 
 outro, porém, não se pode afirmar que o objeto com 30ºC está duas vezes mais quente que o outro com 15ºC.  
   A maioria das estatísticas descritivas pode ser aplicada para dados de variável com escala intervalar, com exceção de estatísticas baseadas na escala de razão, como o coeficiente de variação. 
+  
+### Variável quantitativa - escala de razão
+  A grande diferença da escala intervalar para escala de razão é que se tratando de escala de razão a origem (ou ponto zero) é única e o valor zero expressa ausência de quantidade. Dessa forma, é possível saber se um valor em um intervalo específico da escala é múltiplo de outro. Por exemplo, se uma unidade tem 1 metro e outra 3 metros, pode-se dizer que a última tem uma altura três vezes superior à da primeira. 
+  Dentre as escalas de medida, a escala de razão é a mais elaborada, pois permite o uso de todas as operações aritméticas. Além disso, todas as estatísticas descritivas podem ser aplicadas para dados de uma variável expressa em escala de razão. 
+   Exemplos de variáveis cujos dados podem estar na escala de razão incluem renda, idade, quantidade produzida de determinado produto e distância percorrida. 
 
 
   
