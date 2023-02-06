@@ -23,7 +23,7 @@ FÁVERO, Luiz Paulo Lopes e BELFIORE, Patrícia Prado. Manual de análise de dad
 
   Observe que ambas as variáveis são qualitativas, já que os dados são representados por faixas. Nesse caso, é possível apenas o cálculo de frequências, e não de medidas-resumo, como média e desvio-padrão. Outro comum encontrado em trabalhos que utilizam variáveis qualitativas representadas por números é o cálculo da média da amostra, ou de qualquer outra medida-resumo. O pesquisador calcula, inicialmente, a média dos limites de cada faixa, supondo que esse valor corresponde à média real dos consumidores situados naquela faixa; mas como a distribuição dos dados não é necessariamente linear ou simétrica em torno da média, essa hipótese é muitas vezes violada.
   
-### Variáveis Métricas ou Quantitativs
+### Variáveis Métricas ou Quantitativas
 Podem ser representadas de forma gráfica (gráfico de linhas, dispersão, histograma, ramo-e-folhas e boxplot) por meio de medidas de posições ou localizações (média, mediana, moda, quartis, decis e percentis) medidas de dispersão ou variabilidade (amplitude, desvio-padrão, desvio-médio, variância, erro-padrão e coeficiente de variância) ou ainda por meio de medidas de forma como assimetria e curtose.
  
 - Pode-se classificar as variáveis através de escalas de mensuração. As **Variáveis Qualitativas** e as **Variáveis Quantitativas** são classificadas conforme a Figura 1.1.
